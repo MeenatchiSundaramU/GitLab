@@ -1,1 +1,2 @@
-conflicts on master,sub_branch4
+<<<<<<< HEAD
+conflicts on master,sub_branch4, master
