@@ -1,2 +1,3 @@
 Hi Dear c++,open manos,Hello branch2
 Hi Dear c++,open manos,Hello branch2 ,branch3
+conflicts on master
